@@ -1,0 +1,2214 @@
+{
+  "sourceLanguage": "ko",
+  "strings": {
+    " / %lld 발견": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " / %lld found"
+          }
+        }
+      }
+    },
+    "%@ · %lld분": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$lld min"
+          }
+        }
+      }
+    },
+    "%lld번": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld time"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld times"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld번째 줄": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Row %lld"
+          }
+        }
+      }
+    },
+    "%lld분": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld min"
+          }
+        }
+      }
+    },
+    "%lld시간": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld hr"
+          }
+        }
+      }
+    },
+    "%lld시간 %lld분": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld hr %2$lld min"
+          }
+        }
+      }
+    },
+    "검은 고양이": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Black cat"
+          }
+        }
+      }
+    },
+    "고등어": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mackerel tabby"
+          }
+        }
+      }
+    },
+    "고양이": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cats"
+          }
+        }
+      }
+    },
+    "고양이 %lld마리가 창고 어딘가에 찾아왔어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld cats turned up somewhere in the warehouse."
+          }
+        }
+      }
+    },
+    "골골골…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Purrrr…"
+          }
+        }
+      }
+    },
+    "골판지 무늬 고양이": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cardboard-pattern cat"
+          }
+        }
+      }
+    },
+    "관측 결과 · %lld번째 열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Observation · opening #%lld"
+          }
+        }
+      }
+    },
+    "구석에 무언가 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Something's in the corner"
+          }
+        }
+      }
+    },
+    "구석의 기척은 더 이상 느껴지지 않아요. 이 상자는 열린 채로 창고에 쌓여요. 그래도 끝까지 옮겨 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whatever was in the corner can't be felt anymore. This box will be stacked open in the warehouse. Please carry it all the way anyway."
+          }
+        }
+      }
+    },
+    "그만두기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Give up"
+          }
+        }
+      }
+    },
+    "그만둔 상자가 아직 길 위에 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The box you gave up on is still on the road"
+          }
+        }
+      }
+    },
+    "기지개 쭉": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Big stretch"
+          }
+        }
+      }
+    },
+    "깃털": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feather"
+          }
+        }
+      }
+    },
+    "깜짝이야": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eek!"
+          }
+        }
+      }
+    },
+    "꼬리를 살랑": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tail swish"
+          }
+        }
+      }
+    },
+    "꽉 참 · 다음 상자부터 새 줄": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full · next box starts a new row"
+          }
+        }
+      }
+    },
+    "낡은 열쇠": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Old key"
+          }
+        }
+      }
+    },
+    "내용물": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contents"
+          }
+        }
+      }
+    },
+    "냐": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mew"
+          }
+        }
+      }
+    },
+    "냐!": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mew!"
+          }
+        }
+      }
+    },
+    "냐아?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mrrp?"
+          }
+        }
+      }
+    },
+    "냐아앙": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meeeow"
+          }
+        }
+      }
+    },
+    "냥자역학": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meowntum Mechanics"
+          }
+        }
+      }
+    },
+    "노르웨이 숲": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Norwegian Forest"
+          }
+        }
+      }
+    },
+    "누군가 한참 굴리고 논 것 같아요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Someone seems to have rolled it around for ages."
+          }
+        }
+      }
+    },
+    "눈을 천천히 깜빡": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slow blink"
+          }
+        }
+      }
+    },
+    "다녀오세요. 돌아오면 그대로 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Off you go. It'll be just as you left it."
+          }
+        }
+      }
+    },
+    "다시 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Replay"
+          }
+        }
+      }
+    },
+    "단추 하나": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A button"
+          }
+        }
+      }
+    },
+    "닫고 끝까지 옮기기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close and carry on"
+          }
+        }
+      }
+    },
+    "닫고 다시 엎기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close and flip again"
+          }
+        }
+      }
+    },
+    "도감": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Catalog"
+          }
+        }
+      }
+    },
+    "도감 %lld/%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Catalog %1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "도착한 상자는 열지 않고 그대로 쌓아요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrived boxes are stacked as they are, unopened."
+          }
+        }
+      }
+    },
+    "드문": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uncommon"
+          }
+        }
+      }
+    },
+    "들켰다": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Busted"
+          }
+        }
+      }
+    },
+    "러시안 블루": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Russian Blue"
+          }
+        }
+      }
+    },
+    "레어": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rare"
+          }
+        }
+      }
+    },
+    "메인쿤": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maine Coon"
+          }
+        }
+      }
+    },
+    "모두 지우기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erase all"
+          }
+        }
+      }
+    },
+    "반쯤 먹다 만 자국이 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Someone took a bite and left the rest."
+          }
+        }
+      }
+    },
+    "반투명 고양이": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Translucent cat"
+          }
+        }
+      }
+    },
+    "받는 사람 칸이 비어 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The 'To' line is blank."
+          }
+        }
+      }
+    },
+    "방금, 무언가 같이 들어간 것 같은데.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Did something just slip in with it?"
+          }
+        }
+      }
+    },
+    "배송 라벨": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shipping label"
+          }
+        }
+      }
+    },
+    "배송 라벨 · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shipping label · %@"
+          }
+        }
+      }
+    },
+    "벵갈": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bengal"
+          }
+        }
+      }
+    },
+    "별무늬 고양이": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Starry cat"
+          }
+        }
+      }
+    },
+    "병이 깨져 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The vial is broken"
+          }
+        }
+      }
+    },
+    "봉투": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envelope"
+          }
+        }
+      }
+    },
+    "비어 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It's empty"
+          }
+        }
+      }
+    },
+    "빈 상자": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empty"
+          }
+        }
+      }
+    },
+    "빈 상자는 열린 채로 쌓아요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empty boxes are stacked open."
+          }
+        }
+      }
+    },
+    "빠른 테스트 (3초마다 50%로 빠져나감)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fast test (50% escape every 3 s)"
+          }
+        }
+      }
+    },
+    "빠져나갔을 확률 %lld%%": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chance it slipped out: %lld%%"
+          }
+        }
+      }
+    },
+    "삼색": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calico"
+          }
+        }
+      }
+    },
+    "상자": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Boxes"
+          }
+        }
+      }
+    },
+    "상자 구석에서 %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In a corner of the box: %@"
+          }
+        }
+      }
+    },
+    "상자 내려놓기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set the box down"
+          }
+        }
+      }
+    },
+    "상자 속 %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ in a box"
+          }
+        }
+      }
+    },
+    "상자 속 물건 하나 발견하기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Find an item in a box"
+          }
+        }
+      }
+    },
+    "상자 열림": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Box open"
+          }
+        }
+      }
+    },
+    "상자는 열어둔 채로 둘게요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I'll leave the box open"
+          }
+        }
+      }
+    },
+    "상자를 닫는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Closing the box…"
+          }
+        }
+      }
+    },
+    "상자를 닫았어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Box closed"
+          }
+        }
+      }
+    },
+    "상자를 쌓아뒀어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Box stacked"
+          }
+        }
+      }
+    },
+    "상자에 넣고 닫기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Put it in and close"
+          }
+        }
+      }
+    },
+    "상태": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Status"
+          }
+        }
+      }
+    },
+    "새 상자 운반하기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carry a new box"
+          }
+        }
+      }
+    },
+    "생선 모양 과자": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fish-shaped treat"
+          }
+        }
+      }
+    },
+    "샴": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siamese"
+          }
+        }
+      }
+    },
+    "센서": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sensors"
+          }
+        }
+      }
+    },
+    "스코티시 폴드": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scottish Fold"
+          }
+        }
+      }
+    },
+    "스핑크스": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sphynx"
+          }
+        }
+      }
+    },
+    "실 한 가닥이 아직 붙어 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A single thread is still attached."
+          }
+        }
+      }
+    },
+    "아직 못 만난 %@ 고양이": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ cat not met yet"
+          }
+        }
+      }
+    },
+    "아직 없음": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing yet"
+          }
+        }
+      }
+    },
+    "아직 창고가 비어 있어요. 첫 상자를 옮겨 보세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The warehouse is still empty. Try carrying your first box."
+          }
+        }
+      }
+    },
+    "알 수 없음": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unknown"
+          }
+        }
+      }
+    },
+    "앞줄 %lld/%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Front row %1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "앞줄을 뒤로 밀었어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Front row pushed back"
+          }
+        }
+      }
+    },
+    "앞줄이 상자 %lld개로 꽉 찼어요. 쌓인 상자를 뒤로 밀고, 이 상자부터 새 줄에 쌓아요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The front row is full with %lld boxes. The stacks were pushed back, and a new row starts with this box."
+          }
+        }
+      }
+    },
+    "어느 문의 열쇠인지는 아무도 몰라요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nobody knows which door it opens."
+          }
+        }
+      }
+    },
+    "어둠 속에서 무언가 숨 쉬는 게 느껴져요. 오래 열어두면 빠져나갈지도 몰라요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can feel something breathing in the dark. Leave it open too long and it may slip out."
+          }
+        }
+      }
+    },
+    "어디서 날아 들어왔을까요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where could it have blown in from?"
+          }
+        }
+      }
+    },
+    "열어둔 사이 구석의 기척이 빠져나가고, 작은 발자국만 남았어요. 이 상자는 열린 채로 창고에 쌓여요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "While it was open, whatever was in the corner slipped out, leaving only tiny pawprints. This box will be stacked open in the warehouse."
+          }
+        }
+      }
+    },
+    "열어둔 지 %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open for %@"
+          }
+        }
+      }
+    },
+    "열어본 횟수": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Times opened"
+          }
+        }
+      }
+    },
+    "오늘 옮길 상자": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today's box"
+          }
+        }
+      }
+    },
+    "오드아이 흰 고양이": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odd-eyed white cat"
+          }
+        }
+      }
+    },
+    "운반 그만두기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Give up carrying"
+          }
+        }
+      }
+    },
+    "운반 시간": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carry time"
+          }
+        }
+      }
+    },
+    "운반 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carrying"
+          }
+        }
+      }
+    },
+    "운반 중인 상자 없음": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No box being carried"
+          }
+        }
+      }
+    },
+    "운반을 그만둘까요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Give up carrying?"
+          }
+        }
+      }
+    },
+    "원래 도착 시간까지 %@ 남았어요. 그때까지 새 상자를 받을 수 없어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ left until it would have arrived. You can't take a new box until then."
+          }
+        }
+      }
+    },
+    "원래 크기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset zoom"
+          }
+        }
+      }
+    },
+    "이 상자 안에 당신의 휴대폰이 들어 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your phone is inside this box."
+          }
+        }
+      }
+    },
+    "이 상자는 찌그러진 채 창고에 쌓이고, 원래 도착 시간까지 새 상자를 받을 수 없어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This box will be stacked crushed in the warehouse, and you can't take a new box until it would have arrived."
+          }
+        }
+      }
+    },
+    "이번 상자에서는 아무것도 찾아오지 않아요. 그래도 끝까지 옮긴 덕분에 다음 상자에서 귀한 고양이를 만나기 쉬워져요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing will turn up from this box. But since you carried it all the way, a rare cat is likelier to turn up after your next one."
+          }
+        }
+      }
+    },
+    "일반": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Common"
+          }
+        }
+      }
+    },
+    "작은 방울": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Little bell"
+          }
+        }
+      }
+    },
+    "전설": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Legend"
+          }
+        }
+      }
+    },
+    "전체 초기화": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset everything"
+          }
+        }
+      }
+    },
+    "전체 초기화할까요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset everything?"
+          }
+        }
+      }
+    },
+    "지난번 빈 상자를 끝까지 옮겨서, 이번 상자는 귀한 고양이를 만나기 쉬워요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You carried your last empty box all the way, so rare cats are easier to meet this time"
+          }
+        }
+      }
+    },
+    "찌그러진": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crushed"
+          }
+        }
+      }
+    },
+    "찌그러진 상자": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crushed box"
+          }
+        }
+      }
+    },
+    "창고": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warehouse"
+          }
+        }
+      }
+    },
+    "창고 도착까지": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Until it reaches the warehouse"
+          }
+        }
+      }
+    },
+    "창고 보러 가기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Go to the warehouse"
+          }
+        }
+      }
+    },
+    "창고 어딘가에서 처음 보는 고양이를 발견했어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You found a cat you've never seen, somewhere in the warehouse."
+          }
+        }
+      }
+    },
+    "창고가 조금 더 찼어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The warehouse is a little fuller."
+          }
+        }
+      }
+    },
+    "창고까지 ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "To the warehouse "
+          }
+        }
+      }
+    },
+    "창고까지 %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "To the warehouse %@"
+          }
+        }
+      }
+    },
+    "창고에 고양이 8마리 추가": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add 8 cats to the warehouse"
+          }
+        }
+      }
+    },
+    "창고에 도착했어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrived at the warehouse"
+          }
+        }
+      }
+    },
+    "창고에 상자 20개 추가": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add 20 boxes to the warehouse"
+          }
+        }
+      }
+    },
+    "창고의 상자와 고양이, 도감, 운반 중인 상자를 모두 지워요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erases all boxes, cats, the catalog, and the box being carried."
+          }
+        }
+      }
+    },
+    "처음 발견 %@ · 어디서 왔는지는 아무도 몰라요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "First found %@ · nobody knows where it came from."
+          }
+        }
+      }
+    },
+    "처음 설치한 상태로 돌아가요. 되돌릴 수 없어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back to a fresh install. This can't be undone."
+          }
+        }
+      }
+    },
+    "최근 이벤트": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recent events"
+          }
+        }
+      }
+    },
+    "출발": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start"
+          }
+        }
+      }
+    },
+    "취소": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "치즈": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orange tabby"
+          }
+        }
+      }
+    },
+    "킁킁": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sniff sniff"
+          }
+        }
+      }
+    },
+    "턱시도": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tuxedo"
+          }
+        }
+      }
+    },
+    "털실 뭉치": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ball of yarn"
+          }
+        }
+      }
+    },
+    "폰 쓰러 가기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Go use phone"
+          }
+        }
+      }
+    },
+    "폰 엎어두기 (시뮬레이터)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Phone face down (simulator)"
+          }
+        }
+      }
+    },
+    "폰을 엎고 출발하기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flip phone and go"
+          }
+        }
+      }
+    },
+    "폰을 엎어두거나 이 화면을 켜 둔 채로 두면 상자가 창고로 움직여요. 엎어 둔 폰을 들거나 다른 앱으로 나가면 상자가 열려요. 열 때마다 병이 깨질 수 있고, 오래 열어두면 무언가 빠져나갈 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave the phone face down, or leave this screen on, and the box moves toward the warehouse. Lift a face-down phone or switch to another app and the box opens. Each time it opens the vial may break, and if it stays open too long, something may slip out."
+          }
+        }
+      }
+    },
+    "하암": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yawn"
+          }
+        }
+      }
+    },
+    "한 번도 열지 않고 도착한 상자에서는 귀한 고양이를 만나기 쉬워요. 전설 고양이는 저마다 나오는 조건이 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rare cats turn up more often after a box arrives without ever being opened. Each legendary cat has its own condition."
+          }
+        }
+      }
+    },
+    "현재 상자": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Current box"
+          }
+        }
+      }
+    },
+    "화면을 누르면 밝아져요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap to brighten"
+          }
+        }
+      }
+    },
+    "화면을 다시 밝게 해요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brightens the screen again"
+          }
+        }
+      }
+    },
+    "휴대폰 1대 (그 밖엔 모름)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 phone. Probably."
+          }
+        }
+      }
+    },
+    "휴대폰을 상자에 넣고 창고까지 옮겨요. 가는 동안 상자는 닫혀 있어야 해요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Put your phone in the box and carry it to the warehouse. The box has to stay closed on the way."
+          }
+        }
+      }
+    },
+    "휴대폰을 상자에 넣어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Putting the phone in the box"
+          }
+        }
+      }
+    },
+    "흔들면 아주 작게 딸랑거려요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It gives a tiny jingle when shaken."
+          }
+        }
+      }
+    },
+    "흰 고양이": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "White cat"
+          }
+        }
+      }
+    },
+    " ": {
+      "shouldTranslate": false
+    },
+    "%lld": {
+      "shouldTranslate": false
+    },
+    "%lld/%lld": {
+      "shouldTranslate": false
+    },
+    "DEBUG": {
+      "shouldTranslate": false
+    },
+    "기기 설정 따르기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use device setting"
+          }
+        }
+      }
+    },
+    "설정": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        }
+      }
+    },
+    "언어": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Language"
+          }
+        }
+      }
+    },
+    "바꾸면 바로 적용돼요. 홈 화면의 앱 이름은 기기 언어를 따라요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changes apply right away. The app's name on the home screen follows the device language."
+          }
+        }
+      }
+    },
+    "닫기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        }
+      }
+    },
+    "끝까지 올리면 상자가 열려요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep going to open the box"
+          }
+        }
+      }
+    },
+    "위로 밀어서 상자 열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Swipe up to open the box"
+          }
+        }
+      }
+    },
+    "위로 밀어서 폰 쓰러 가기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Swipe up to go use your phone"
+          }
+        }
+      }
+    },
+    "상자로 돌아가기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back to the box"
+          }
+        }
+      }
+    },
+    "화면 아래를 쓸어올려 홈 화면으로 가세요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Swipe up from the bottom to go home"
+          }
+        }
+      }
+    },
+    "끝까지 올려 주세요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep going"
+          }
+        }
+      }
+    },
+    "집중 시간 기준": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "By focus time"
+          }
+        }
+      }
+    },
+    "도착 시간 기준": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "By arrival time"
+          }
+        }
+      }
+    },
+    "얼마나 옮길지 정해요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose how long to carry"
+          }
+        }
+      }
+    },
+    "언제 도착할지 정해요. 잘 때 좋아요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose when it arrives. Good for sleep"
+          }
+        }
+      }
+    },
+    "도착 시간": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrival time"
+          }
+        }
+      }
+    },
+    "지금부터 %@ 동안 옮겨요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It'll be carried for %@"
+          }
+        }
+      }
+    },
+    "한 번에 12시간까지 옮길 수 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A box can be carried for up to 12 hours"
+          }
+        }
+      }
+    },
+    "%@ 도착 예정": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrives %@"
+          }
+        }
+      }
+    },
+    "열 때까지": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Until I open it"
+          }
+        }
+      }
+    },
+    "다 했을 때 열어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open it when you're done"
+          }
+        }
+      }
+    },
+    "무언가 불안하게 움직여요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Something stirs uneasily"
+          }
+        }
+      }
+    },
+    "뒤척이는 소리가 나요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You hear it shifting"
+          }
+        }
+      }
+    },
+    "조용해지고 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It's growing quiet"
+          }
+        }
+      }
+    },
+    "깊이 잠든 것 같아요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It seems fast asleep"
+          }
+        }
+      }
+    },
+    "상자가 따뜻해졌어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The box feels warm"
+          }
+        }
+      }
+    },
+    "숨소리가 여럿 들려요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You hear more than one breath"
+          }
+        }
+      }
+    },
+    "틈으로 희미한 빛이 새어 나와요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A faint light leaks through the gap"
+          }
+        }
+      }
+    },
+    "아무 소리도 들리지 않아요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not a sound"
+          }
+        }
+      }
+    },
+    "중첩 고양이": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Superposition Cat"
+          }
+        }
+      }
+    },
+    "옮긴 시간": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time carried"
+          }
+        }
+      }
+    },
+    "내려놓으면 계속 옮겨요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Put it down to keep carrying"
+          }
+        }
+      }
+    },
+    "그대로 두면 상자가 열려요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otherwise the box opens"
+          }
+        }
+      }
+    },
+    "%@ 옮기는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carrying for %@"
+          }
+        }
+      }
+    },
+    "무언가 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Something's in there"
+          }
+        }
+      }
+    },
+    "병이 깨져 있었어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The vial was broken"
+          }
+        }
+      }
+    },
+    "기척이 빠져나가고 없었어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whatever was there had slipped away"
+          }
+        }
+      }
+    },
+    "조금 더 고요하게 두었다면 달랐을지도 몰라요. 대신 다음 상자에서는 귀한 고양이를 만나기 쉬워져요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Left quiet a little longer, it might have been different. Instead, a rare cat is likelier to turn up after your next box."
+          }
+        }
+      }
+    },
+    "옮긴 시간 ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carried "
+          }
+        }
+      }
+    },
+    "지금까지 %lld번 열어서 %lld번 기척을 확인했어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opened %lld times so far, found something %lld times"
+          }
+        }
+      }
+    },
+    "닫고 계속 옮기기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close and keep carrying"
+          }
+        }
+      }
+    },
+    "여기서 창고로 보내기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send it to the warehouse now"
+          }
+        }
+      }
+    },
+    "폰을 엎어두거나 이 화면을 켜 둔 채로 두면 상자가 창고로 움직여요. 상자를 열면 그 순간 지금까지의 상자 속이 정해져요. 다시 닫으면 처음부터 다시 시작하고, 열린 동안은 시간이 멈춰요. 엎어 둔 폰을 들어도 5초 안에 다시 엎으면 계속 옮겨요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave the phone face down, or leave this screen on, and the box moves toward the warehouse. Opening it decides what's been inside so far. Close it and it starts over; time stops while it's open. If you pick up the phone, put it face down again within 5 seconds to keep going."
+          }
+        }
+      }
+    },
+    "운반 일지": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carry Log"
+          }
+        }
+      }
+    },
+    "이번 주": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This week"
+          }
+        }
+      }
+    },
+    "연속": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Streak"
+          }
+        }
+      }
+    },
+    "상자 %lld개": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld box"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld boxes"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld일": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld day"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld days"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "끝까지 옮긴 날": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Days with a box carried"
+          }
+        }
+      }
+    },
+    "이전 달": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Previous month"
+          }
+        }
+      }
+    },
+    "다음 달": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next month"
+          }
+        }
+      }
+    },
+    "1.1보다 먼저 옮긴 상자는 시간이 기록되지 않아 개수만 셀 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Boxes carried before 1.1 have no time recorded, so they only count as boxes."
+          }
+        }
+      }
+    },
+    "이날은 옮긴 상자가 없어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No boxes carried this day."
+          }
+        }
+      }
+    },
+    "시간 기록 없음": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No time recorded"
+          }
+        }
+      }
+    },
+    "그만둠": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Given up"
+          }
+        }
+      }
+    },
+    "%@, 상자 %lld개": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@, %2$lld boxes"
+          }
+        }
+      }
+    },
+    "기척 있음": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Something inside"
+          }
+        }
+      }
+    },
+    "이번에 옮긴 동안 무언가 자리를 잡았어요. 이 기척은 이제 빠져나가지 않아요. 다시 닫으면 상자 속은 처음부터 다시 알 수 없게 돼요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Something settled in while you carried it, and it won't slip away now. Close the box and what's inside is unknown again, from the start."
+          }
+        }
+      }
+    },
+    "상자 속은 열기 전까지 알 수 없어요. 오래 고요할수록 무언가 자리 잡을 가능성이 커져요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can't know what's inside until you open it. The longer it stays quiet, the likelier something settles in."
+          }
+        }
+      }
+    },
+    "열 때마다 그동안 무언가 자리 잡았는지 정해져요. 확인하고 다시 닫아도 되고, 그대로 창고로 보내도 돼요. 12시간이 지나면 저절로 창고로 가요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Each time you open it, it's decided whether something settled in. Close it again after a look, or send it to the warehouse. After 12 hours it goes there by itself."
+          }
+        }
+      }
+    },
+    "상자 모서리가 조금 해졌어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The box's corners are a little worn"
+          }
+        }
+      }
+    },
+    "상자가 꽤 해졌어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The box is quite worn"
+          }
+        }
+      }
+    },
+    "상자가 너덜너덜해요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The box is falling apart"
+          }
+        }
+      }
+    },
+    "처음 연 순간 구석의 병이 깨졌어요. 병은 이제 더 깨지지 않아요. 다시 닫으면 처음부터 다시 기척이 모여요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The vial in the corner broke the moment you first opened it. It can't break again. Close the box and something can start gathering from the beginning."
+          }
+        }
+      }
+    },
+    "헤진 틈으로 기척이 빠져나갔어요. 다시 닫으면 처음부터 다시 기척이 모이지만, 열수록 상자는 더 헤져요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whatever was there slipped out through the worn seams. Close the box and something can gather again, but each opening wears it more."
+          }
+        }
+      }
+    },
+    "%@ 옮기고 열었어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opened after %@"
+          }
+        }
+      }
+    },
+    "%@ 운반 완료 · 열어본 횟수 %lld번": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carried %1$@ · opened %2$lld×"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
