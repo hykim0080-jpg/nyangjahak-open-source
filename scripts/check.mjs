@@ -19,6 +19,8 @@ function inventory(dir) {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap(e => {
     const full = path.join(dir, e.name);
     assert(!e.isSymbolicLink(), 'symlinks are not allowed');
+    // A normal git clone adds local metadata; it is not part of published source files.
+    if (dir === root && e.name === '.git' && e.isDirectory()) return [];
     return e.isDirectory() ? inventory(full) : [path.relative(root, full).split(path.sep).join('/')];
   });
 }
